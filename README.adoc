@@ -1,2 +1,3 @@
-# elm-on-codespaces
+= elm-on-codespaces
+
 Developing with Elm on GitHub Codespaces
